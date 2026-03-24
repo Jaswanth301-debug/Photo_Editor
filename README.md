@@ -40,12 +40,6 @@ streamlit run app.py
 
 ---
 
-## 🌐 Live Demo
-
-👉 (Add your Streamlit link after deployment)
-
----
-
 ## 📂 Project Structure
 
 ```
