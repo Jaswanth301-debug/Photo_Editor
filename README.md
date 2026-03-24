@@ -40,8 +40,6 @@ streamlit run app.py
 
 ---
 
-```
-
 ## 💡 Key Concepts Used
 
 * Image Processing (OpenCV)
