@@ -40,18 +40,7 @@ streamlit run app.py
 
 ---
 
-## 📂 Project Structure
-
 ```
-photo_editor/
-│
-├── app.py
-├── requirements.txt
-├── README.md
-└── .gitignore
-```
-
----
 
 ## 💡 Key Concepts Used
 
